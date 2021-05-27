@@ -1,0 +1,16 @@
+{
+  "name": "sampleapp1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "protractor": "protractor protractor.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-reporters": "^2.4.0",
+    "minimist": "^1.2.5",
+    "protractor-jasmine2-screenshot-reporter": "^0.5.0"
+  }
+}
